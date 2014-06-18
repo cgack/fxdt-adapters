@@ -1,5 +1,0 @@
-<?xml version="1.0" ?>
-<vbox xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
-  <setting data-jetpack-id="fxos_2_0_simulator@mozilla.org" pref="extensions.fxos_2_0_simulator@mozilla.org.gaiaProfile" pref-name="gaiaProfile" title="Select a custom Gaia profile directory" type="directory"/>
-  <setting data-jetpack-id="fxos_2_0_simulator@mozilla.org" pref="extensions.fxos_2_0_simulator@mozilla.org.customRuntime" pref-name="customRuntime" title="Select a custom runtime executable" type="file"/>
-</vbox>

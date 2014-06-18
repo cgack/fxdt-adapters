@@ -1,1 +1,0 @@
-platform.value="macintosh";
